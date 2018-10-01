@@ -1,5 +1,5 @@
 name:
-   first: Anhad
-   last: Mohananey
-email: anhad@nyu.edu
-leaderboard: Baseline
+   first: Sudarshini
+   last: Tyagi
+email: st3688@nyu.edu
+leaderboard: Sudo_MaxEnt
