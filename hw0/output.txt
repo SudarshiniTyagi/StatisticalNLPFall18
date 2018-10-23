@@ -2,4 +2,4 @@ name:
    first: Sudarshini
    last: Tyagi
 email: st3688@nyu.edu
-leaderboard: Sudo_MaxEnt
+leaderboard: Sudo
